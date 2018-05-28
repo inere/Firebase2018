@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "844090944901",
+    "firebase_url": "https://fir-2018-838c7.firebaseio.com",
+    "project_id": "fir-2018-838c7",
+    "storage_bucket": "fir-2018-838c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844090944901:android:027e431280ca733b",
+        "android_client_info": {
+          "package_name": "com.example.ishannere.firebase2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844090944901-6ajnbamesu9fafanbutsu19lptnrs40u.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "844090944901-6ajnbamesu9fafanbutsu19lptnrs40u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANPoDDxzmXtvA9ELQkDTzYmHBuLNXbADk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
